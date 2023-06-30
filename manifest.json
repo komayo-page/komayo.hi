@@ -1,7 +1,7 @@
 {
-  "name": "Komayō page",
-  "short_name": "Komayō",
-  "description": "In the mystical light of the full moon, discover the story of Komayō, a bewitching yōkai from Japanese folklore. Seductive and deadly, she lures lost souls into the game of ōgi, absorbing their life energy and dooming them to eternal torment. It&#39;s a tale of fatal attraction and unchecked desire, a poignant warning against the dangers of temptation.",
+  "name": "कोमायो पेज",
+  "short_name": "कोमायो",
+  "description": "पूर्णिमा के चंद्रमा की रहस्यमय रोशनी में, जापानी लोककथाओं की एक मंत्रमुग्ध कर देने वाली योकाई, कोमायो की कहानी की खोज करें। मोहक और घातक, वह खोई हुई आत्माओं को ओगी के खेल में लुभाती है, उनकी जीवन ऊर्जा को अवशोषित करती है और उन्हें शाश्वत पीड़ा के लिए प्रेरित करती है। यह घातक आकर्षण और अनियंत्रित इच्छा की कहानी है, प्रलोभन के खतरों के प्रति एक मार्मिक चेतावनी है।",
   "lang": "hi",
   "start_url": "/",
   "display": "standalone",
