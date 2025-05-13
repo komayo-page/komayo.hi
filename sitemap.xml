@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://hi.komayo.page/</loc>
     <lastmod>2023-06-26</lastmod>
+    <image:image>
+      <image:loc>https://hi.komayo.page/img/mysterious-asian-woman-kimono-varanasi-ganges-night-street-ink-sketch,w_1024.webp</image:loc>
+      <image:title>वाराणसी की गंगा किनारे की रात्रि गली में रहस्यमयी किमोनो पहनी एशियाई महिला की स्याही से बनाई गई रेखाकृति</image:title>
+      <image:caption>वाराणसी की गंगा किनारे की रात्रि गली में रहस्यमयी किमोनो पहनी एशियाई महिला की स्याही से बनाई गई रेखाकृति</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://hi.komayo.page/favicon/favicon.svg</image:loc>
+      <image:title>शगयक्ष</image:title>
+      <image:caption>शगयक्ष लोगो</image:caption>
+    </image:image>
   </url>
 </urlset>
